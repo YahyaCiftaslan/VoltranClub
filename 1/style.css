@@ -14,7 +14,7 @@ p {
 }
 
 header {
-  background-color: #F63232;
+  background-color: #f63232;
   padding: 20px 0;
   text-align: center;
   position: fixed;
@@ -41,7 +41,7 @@ header h1 {
 }
 
 nav {
-  background: #F4F4F4;
+  background: #f4f4f4;
   padding: 20px;
   position: sticky;
   top: 106px;
@@ -63,7 +63,7 @@ nav li {
 
 nav li a {
   text-decoration: none;
-  color: #4B4B4B;
+  color: #4b4b4b;
 }
 
 nav li a:hover {
@@ -71,7 +71,7 @@ nav li a:hover {
 }
 
 nav li a.join {
-  color: #F63232;
+  color: #f63232;
 }
 
 main {
@@ -83,13 +83,13 @@ main {
 }
 
 article h2 {
-  color: #F63232;
+  color: #f63232;
   font-size: 48px;
 }
 
 article p {
   line-height: 2em;
-  color: #4B4B4B;
+  color: #4b4b4b;
 }
 
 article p::first-line {
@@ -121,10 +121,10 @@ article p::first-line {
 }
 
 section.join {
-  background: #F4F4F4;
+  background: #f4f4f4;
   text-align: center;
   padding: 60px 20px;
-  color: #4B4B4B;
+  color: #4b4b4b;
 }
 
 section.join h2 {
@@ -140,7 +140,7 @@ form input {
 }
 
 form input:focus {
-  border: 4px dashed #4B4B4B;
+  border: 4px dashed #4b4b4b;
   outline: none;
 }
 
@@ -149,7 +149,7 @@ form input:valid {
 }
 
 footer {
-  background: #F63232;
+  background: #f63232;
   color: white;
   padding: 10px;
   text-align: center;

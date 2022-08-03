@@ -1,0 +1,31 @@
+div{
+    border: 2px solid red;
+}
+div p{
+    border:2px solid red
+}
+.container div p{
+    background-color: darkkhaki;
+}
+p + div{
+    background-color:green;
+}
+p[title=baslik1]{
+    background-color: red;
+}
+h1{
+background-color: darkgray;
+}
+p::first-letter{
+    font-size: 2rem;
+}
+p::first-line{
+    font-style: italic;
+    font-weight: bold;
+}
+/* #id{
+
+}
+.class{
+
+} */

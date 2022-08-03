@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.container{
+    background-color: green;
+    margin: 20px;
+}
+.box1{
+    background-color: coral;
+}
+.box2{
+    background-color: olive;
+    border: 3px solid red;
+    width: 150px;
+    margin: inherit ; 
+    
+}
+.box3{
+    background-color: orange;
+    margin-top: 20px;
+}
+.box4{
+    background-color: cyan;
+}

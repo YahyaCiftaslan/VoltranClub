@@ -1,0 +1,23 @@
+.box1{
+    /* background-color: tomato; */
+    background-color: hsl(120, 100%, 50%)
+}
+.box2{
+    /* background-color: darkgoldenrod; */
+    background-color: hsl(120, 100%, 25%);
+}
+.box3{
+    background-color:hsl(120, 100%, 10%) ;
+}
+.box4{
+    /* background-color: red; */
+    background-color: hsl(120, 100%, 75%)
+}
+.box5{
+    /* background-color: gray; */
+    background-color: hsl(120, 100%, 80%)
+}
+.box6{
+    /* background-color: magenta */
+    background-color: #00ff00;
+}
